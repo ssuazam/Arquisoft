@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# Docker databases (si montaste volúmenes de datos locales)
+mysql_data/
+
+# OS
+.DS_Store
